@@ -2,3 +2,4 @@ Plan B
   1.JavaScript Framework
     -Vue
     -React
+  2.Javascript EC6
