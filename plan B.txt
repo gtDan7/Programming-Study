@@ -3,6 +3,8 @@ Plan B
     -Angular
     -React
   2.Javascript EC6
-  3.Belajar API
-  4.PHP Framework
+  3.Belajar Sturuktur Data Dasar
+  4.Belajar PHP Framework
     -Laravel
+  5.Belajar Phyton
+
