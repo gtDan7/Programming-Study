@@ -1,6 +1,8 @@
 Plan B
   1.JavaScript Framework
-    -Vue
+    -Angular
     -React
   2.Javascript EC6
-  3.Belajar Sturuktur Data Dasar
+  3.Belajar API
+  4.PHP Framework
+    -Laravel
